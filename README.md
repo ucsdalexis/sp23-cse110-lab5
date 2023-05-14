@@ -1,4 +1,4 @@
-# Lab 5 - Starter
+# Lab 5 - Alexis Chao
 
 This is the link to [GitHub Actions?](https://github.com/ucsdalexis/introduction-to-github/)
 
